@@ -14,22 +14,22 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/thumbnail_sv.jpg
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    title: "Scientific Visualization"
+    excerpt: "Producing high quality scientific data visualization on supercomputers"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Robotics"
+    excerpt: "Creating robotic Digital Twins with Isaac Sim and Unity"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    title: "Interactive Media"
+    excerpt: "From game design to interactive data visualization"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
