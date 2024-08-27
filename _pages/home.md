@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/sciviz/header.png
+  overlay_image: /assets/images/sciviz/header2.png
 
 excerpt: >
     Computer graphics programming, robotics simulation engineering, interactive media developer, and more!
