@@ -65,7 +65,7 @@ author:
   bio    : "I'm testing this to make sure it actually updates"
   links:
     - label: "LinkedIn"
-      icon: "fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/hal-brynteson/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,7 +74,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/hal-brynteson/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
