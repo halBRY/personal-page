@@ -19,14 +19,14 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/thumbnail_robo.png
     alt: "fully responsive"
     title: "Robotics"
     excerpt: "Creating robotic Digital Twins with Isaac Sim and Unity"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/thumbnail_im.jpg
     alt: "100% free"
     title: "Interactive Media"
     excerpt: "From game design to interactive data visualization"
