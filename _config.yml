@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Hal Brynteson"
-  avatar : "/assets/images/photo.png"
+  avatar : "/assets/images/bio.png"
   bio    : "I'm testing this to make sure it actually updates"
   links:
     - label: "LinkedIn"
