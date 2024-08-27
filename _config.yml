@@ -61,8 +61,8 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/photo.png"
+  bio    : "I'm testing this to make sure it actually updates"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
