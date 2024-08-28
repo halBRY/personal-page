@@ -3,12 +3,12 @@ permalink: /sciviz/
 title: "SciViz"
 ---
 
-Things to include here: 
-* Maya and V-Ray
-    * ICE In-situ -> video
-{% include video id="M0S7ihKdCRM" provider="youtube" %}
+At Argonne National Laboratory, I helped develop a pipeline for creating high quality scientific visualizations leveraging supercomputing resources. 
 
-    * CoreCollapse -> video
+## Videos
+
+
+{% include video id="M0S7ihKdCRM" provider="youtube" %}
 
 {% include video id="0DSk1wPc_cEM" provider="youtube" %}
 
