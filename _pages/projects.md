@@ -28,4 +28,4 @@ Smart Moves
 
 RPL Job Status Dashboard
 
-WebGL Amusement Park
+[WebGL Amusement Park](/assets/interactive/ParkA4/park.html)
