@@ -7,10 +7,12 @@ At Argonne National Laboratory, I helped develop a pipeline for creating high qu
 
 ## Videos
 
+The following videos were created using ParaView, Maya, and V-Ray, and were rendered across 48 nodes in parallel. 
 
 {% include video id="M0S7ihKdCRM" provider="youtube" %}
 
 {% include video id="0DSk1wPc_cE" provider="youtube" %}
+
 
 
 ## Still Images
