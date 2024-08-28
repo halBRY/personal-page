@@ -1,10 +1,16 @@
+---
+permalink: /sciviz/
+title: "SciViz"
+---
+
 Things to include here: 
 * Maya and V-Ray
-    * ICE In-situ
-    * CoreCollapse
+    * ICE In-situ -> video
+    * CoreCollapse -> video
 * Houdini
-    * Bloodflow
+    * Bloodflow -> video
 * Blender
-    * TRB
+    * TRB -> still
 * ParaView
     * Literally all of it
+    * TRB videos

@@ -13,23 +13,23 @@ feature_row:
     alt: "customizable"
     title: "Scientific Visualization"
     excerpt: "Producing high quality scientific data visualization on supercomputers"
-    url: "/docs/configuration/"
+    url: "/sciviz/"
     btn_class: "btn--primary"
-    btn_label: "See Projects"
+    btn_label: "See Project"
   - image_path: /assets/images/thumbnail_robo.jpg
     alt: "fully responsive"
     title: "Robotics"
     excerpt: "Creating robotic Digital Twins with Isaac Sim and Unity"
-    url: "/docs/layouts/"
+    url: "/robo/"
     btn_class: "btn--primary"
     btn_label: "See Project"
   - image_path: /assets/images/thumbnail_im.jpg
     alt: "100% free"
     title: "Interactive Media"
     excerpt: "From game design to interactive data visualization"
-    url: "/docs/license/"
+    url: "/games/"
     btn_class: "btn--primary"
-    btn_label: "See Projects"      
+    btn_label: "See Project"      
 ---
 
 {% include feature_row %}
