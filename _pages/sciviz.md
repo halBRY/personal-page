@@ -6,9 +6,12 @@ title: "SciViz"
 Things to include here: 
 * Maya and V-Ray
     * ICE In-situ -> video
-    * https://youtu.be/M0S7ihKdCRM?si=gSsU-m65VlYpqJHU
+{% include video id="M0S7ihKdCRM" provider="youtube" %}
+
     * CoreCollapse -> video
-    * https://www.youtube.com/watch?v=0DSk1wPc_cE
+
+{% include video id="0DSk1wPc_cEM" provider="youtube" %}
+
 * Houdini
     * Bloodflow -> video
 * Blender
