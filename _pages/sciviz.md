@@ -15,6 +15,9 @@ The following videos were created using ParaView, Maya, and V-Ray, and were rend
 
 
 
+Houdini
+{% include video id="Nl3m2Zz61D4" provider="youtube" %}
+
 ## Still Images
 
 * Houdini
