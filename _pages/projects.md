@@ -4,8 +4,16 @@ title: "Projects"
 layout: archive
 ---
 
-# This is the Projects Page 
- Hi Hi 
+High Quality Scientific Visualization 
 
- ## Boy do I hope this works 
+Digital Twins
 
+Immersive Stars and Skycultures 
+
+Smart Moves
+
+(D:) Drive
+
+RPL Job Status Dashboard
+
+WebGL Amusement Park
