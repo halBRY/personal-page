@@ -6,7 +6,7 @@ layout: archive
 
 ## Scientific Visualization
 
-[![HPC Rendering Pipeline][1]][2]
+[![HPC Rendering Pipeline][1]][2] HPC Rendering Pipeline
 
 [1]: https://halbry.github.io/personal-page/assets/images/sciviz/star.jpg
 [2]: https://halbry.github.io/personal-page/sciviz/
