@@ -4,9 +4,21 @@ title: "Projects"
 layout: archive
 ---
 
-High Quality Scientific Visualization 
+## Scientific Visualization
+
+HPC Rendering Pipeline
+
+Gallery of Fluid Motion
+
+## Robotics
 
 Digital Twins
+
+NIU Mars Rover
+
+Rover and Robotics Exhibition
+
+## Interactive Media
 
 Immersive Stars and Skycultures 
 
