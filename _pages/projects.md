@@ -1,10 +1,11 @@
 ---
 permalink: /projects/
 title: "Projects"
+layout: archive
 ---
 
-Hi, my name is Hal! 
+# This is the Projects Page 
+ Hi Hi 
 
-I am a Computer Science Master's student at the University of Illinois Chicago. 
+ ## Boy do I hope this works 
 
-My research interests revolve around computer graphics, scientific data visualization, high performance computing, and robotics. Please check out some of my projects!
