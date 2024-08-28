@@ -8,7 +8,7 @@ layout: archive
 
 [![HPC Rendering Pipeline][1]][2]
 
-[1]: https://halbry.github.io/personal-page/assets/images/sciviz/star
+[1]: https://halbry.github.io/personal-page/assets/images/sciviz/star.jpg
 [2]: https://halbry.github.io/personal-page/sciviz/
 
 
