@@ -5,6 +5,9 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/sciviz/header2.png
+  actions:
+    - label: "<i class='fas fa-download'></i> See all Projects"
+      url: "/projects/"
 
 excerpt: >
     Computer graphics, robotics, interactive media, and more!
