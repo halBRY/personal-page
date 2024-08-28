@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/sciviz/header2.png
 
 excerpt: >
-    Computer graphics programming, robotics simulation engineering, interactive media developer, and more!
+    Computer graphics, robotics, interactive media, and more!
 feature_row:
   - image_path: /assets/images/thumbnail_sv.jpg
     alt: "customizable"
