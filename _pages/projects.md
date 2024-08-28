@@ -6,7 +6,11 @@ layout: archive
 
 ## Scientific Visualization
 
-HPC Rendering Pipeline
+[![HPC Rendering Pipeline][1]][2]
+
+[1]: assets/images/sciviz/star
+[2]: /sciviz/
+
 
 Gallery of Fluid Motion
 
@@ -20,7 +24,7 @@ Rover and Robotics Exhibition
 
 ## Interactive Media
 
-Immersive Stars and Skycultures 
+[Immersive Stars and Skycultures](https://halbry.github.io/CS528-Docs/) 
 
 Smart Moves
 
