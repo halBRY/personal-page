@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/sciviz/header2.png
   actions:
-    - label: "<i class='fas fa-download'></i> See all Projects"
+    - label: "<i class='fa-solid fa-star'></i> See all Projects"
       url: "/projects/"
 
 excerpt: >
