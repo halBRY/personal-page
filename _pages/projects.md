@@ -8,8 +8,8 @@ layout: archive
 
 [![HPC Rendering Pipeline][1]][2]
 
-[1]: assets/images/sciviz/star
-[2]: /sciviz/
+[1]: https://halbry.github.io/personal-page/assets/images/sciviz/star
+[2]: https://halbry.github.io/personal-page/sciviz/
 
 
 Gallery of Fluid Motion
