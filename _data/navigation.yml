@@ -1,5 +1,5 @@
 main:
   - title: "Projects"
-    url: /_pages/projects/
+    url: /projects/
   - title: "About"
     url: /about/
