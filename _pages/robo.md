@@ -10,3 +10,4 @@ Much of my current work seeks to control, simulate, and interact with robots thr
 Things to include here: 
 * The Digital Twin Project
 * Rover
+* Robotics and Rover Exhibition
