@@ -1,9 +1,10 @@
 ---
 permalink: /projects/
+title: "All Projects"
 layout: archive
 ---
 
-## Scientific Visualization
+# Scientific Visualization
 
 ### [HPC Rendering Pipeline](https://halbry.github.io/personal-page/sciviz/)<br>
 [![HPC Rendering Pipeline][1]][2] 
@@ -21,7 +22,7 @@ Developing a parallel rendering pipeline for high quality scientific visualizati
 
 Using ParaView and Blender to visualize fluid simulations for the Gallery of Fluid Motion 2023.
 
-## Robotics
+# Robotics
 
 ### [Digital Twin](https://halbry.github.io/personal-page/dt/)<br>
 [![Digital Twin][5]][6] 
@@ -39,7 +40,7 @@ Creating robotic digital twins with Isaac Sim and Unity.
 
 4 years of leadership service and ROS development on the NIU Mars Rover team. 
 
-## Interactive Media
+# Interactive Media
 
 ### [Immersive Stars and Skycultures](https://halbry.github.io/CS528-Docs/)<br>
 [![Immersive Stars and Skycultures][9]][10] 
