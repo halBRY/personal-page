@@ -13,18 +13,16 @@ The following videos were created using ParaView, Maya, and V-Ray, and were rend
 
 {% include video id="0DSk1wPc_cE" provider="youtube" %}
 
-
-
 Houdini
 {% include video id="Nl3m2Zz61D4" provider="youtube" %}
 
 ## Still Images
 
-* Houdini
-    * Bloodflow -> video
-* Blender
-    * TRB -> still
-    * https://gfm.aps.org/meetings/dfd-2023/6504c509199e4c16c66a9562
-* ParaView
-    * Literally all of it
-    * TRB videos
+![Bloodflow]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/took-forever.png)
+{: .full}
+
+![Bloodflow]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/1ocio_blinn.png)
+{: .full}
+
+![Star]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/high_res_dpi_300.png)
+{: .full}
