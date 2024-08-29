@@ -6,7 +6,7 @@ layout: archive
 
 ## Scientific Visualization
 
-[HPC Rendering Pipeline](https://halbry.github.io/personal-page/sciviz/)
+### [HPC Rendering Pipeline](https://halbry.github.io/personal-page/sciviz/)<br>
 [![HPC Rendering Pipeline][1]][2] 
 
 [1]: https://halbry.github.io/personal-page/assets/images/sciviz/star-thumb-small.png
@@ -14,7 +14,7 @@ layout: archive
 
 Developing a parallel rendering pipeline for high quality scientific visualizations. 
 
-[Gallery of Fluid Motion 2023](https://halbry.github.io/personal-page/trb/)
+### [Gallery of Fluid Motion 2023](https://halbry.github.io/personal-page/trb/)<br>
 [![Gallery of Fluid Motion 2023][3]][4] 
 
 [3]: https://halbry.github.io/personal-page/assets/images/sciviz/trb-small.png
@@ -24,15 +24,15 @@ Using ParaView and Blender to visualize fluid simulations for the Gallery of Flu
 
 ## Robotics
 
-[Digital Twin](https://halbry.github.io/personal-page/dt/)
+### [Digital Twin](https://halbry.github.io/personal-page/dt/)<br>
 [![Digital Twin][5]][6] 
 
-[5]: https://halbry.github.io/personal-page/assets/images/thumbnail-robo-small.png
+[5]: https://halbry.github.io/personal-page/assets/images/thumbnail-robo-small.jpg
 [6]: https://halbry.github.io/personal-page/dt/
 
 Creating robotic digital twins with Isaac Sim and Unity.
 
-[NIU Mars Rover](https://halbry.github.io/personal-page/niurov/)
+### [NIU Mars Rover](https://halbry.github.io/personal-page/niurov/)<br>
 [![NIU Mars Rover][7]][8] 
 
 [7]: https://halbry.github.io/personal-page/assets/images/rover-thumb.png
@@ -42,7 +42,7 @@ Creating robotic digital twins with Isaac Sim and Unity.
 
 ## Interactive Media
 
-[Immersive Stars and Skycultures](https://halbry.github.io/CS528-Docs/) 
+### [Immersive Stars and Skycultures](https://halbry.github.io/CS528-Docs/)<br>
 [![Immersive Stars and Skycultures][9]][10] 
 
 [9]: https://halbry.github.io/personal-page/assets/images/imss-small.png
@@ -50,15 +50,15 @@ Creating robotic digital twins with Isaac Sim and Unity.
 
 Immersive visualization of nearly 400,000 stars show in real-time on the CAVE2 virtual reality environment. 
 
-[Smart Moves](https://halbry.github.io/personal-page/smm/) 
-[![Smart Moves][11]][12] 
+### [Smart Moves](https://halbry.github.io/personal-page/smm/)<br>
+[![Smart Moves][17]][18] 
 
-[11]: https://halbry.github.io/personal-page/assets/images/thumbnail-im-small.png
-[12]: https://halbry.github.io/personal-page/smm/
+[17]: https://halbry.github.io/personal-page/assets/images/thumbnail-im-small.jpg
+[18]: https://halbry.github.io/personal-page/smm/
 
 Smart Moves is a interactive experience for the CAVE2 focused on the UN Sustainable Development Goals. 
 
-[(D:) Drive](https://halbry.github.io/personal-page/ddrive/) 
+### [(D:) Drive](https://halbry.github.io/personal-page/ddrive/)<br> 
 [![(D:) Drive][11]][12] 
 
 [11]: https://halbry.github.io/personal-page/assets/images/ddrive-thumb.png
@@ -66,7 +66,7 @@ Smart Moves is a interactive experience for the CAVE2 focused on the UN Sustaina
 
 (D:) Drive is a rhythm-racing game demo created in Unity for UIC CS428. 
 
-[RPL Job Status Dashboard](https://halbry.github.io/personal-page/rpl/) 
+### [RPL Job Status Dashboard](https://halbry.github.io/personal-page/rpl/)<br> 
 [![RPL Job Status Dashboard][13]][14] 
 
 [13]: https://halbry.github.io/personal-page/assets/images/rpl.png
@@ -74,7 +74,8 @@ Smart Moves is a interactive experience for the CAVE2 focused on the UN Sustaina
 
 The RPL Job Status Dashboard is a web-based visualization tool for Argonne National Laboratory's Rapid Prototyping Lab. 
 
-[![WebGL Amusement Park][15]][16] [WebGL Amusement Park](https://halbry.github.io/webgl-park/ParkA4/index.html)
+### [WebGL Amusement Park](https://halbry.github.io/webgl-park/ParkA4/index.html)<br>
+[![WebGL Amusement Park][15]][16] 
 
 [15]: https://halbry.github.io/personal-page/assets/images/webgl.png
 [16]: https://halbry.github.io/webgl-park/ParkA4/index.html
