@@ -13,7 +13,7 @@ In order to better communicate the science done the supercomputing resources of 
 
 <br>
 {% include video id="0DSk1wPc_cE" provider="youtube" %}
-"Visualizing the Supernova Explosion of a 25-Solar-Mass Star and the Simultaneous Birth of a Neutron-Star" was shown the following year at the 
+"Visualizing the Supernova Explosion of a 25-Solar-Mass Star and the Simultaneous Birth of a Neutron-Star" was shown the following year at the SC22 SciViz Showcase. 
 
 <br>
 {% include video id="Nl3m2Zz61D4" provider="youtube" %}
