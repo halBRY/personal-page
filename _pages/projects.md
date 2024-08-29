@@ -3,7 +3,7 @@ permalink: /projects/
 title: "All Projects"
 ---
 
-## [Scientific Visualization Gallery](https://halbry.github.io/personal-page/sciviz/)<br>
+### [Scientific Visualization Gallery](https://halbry.github.io/personal-page/sciviz/)<br>
 [![HPC Rendering Pipeline][1]][2] 
 
 [1]: https://halbry.github.io/personal-page/assets/images/sciviz/star-thumb-long.png

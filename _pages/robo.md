@@ -9,11 +9,15 @@ layout: archive
 [5]: https://halbry.github.io/personal-page/assets/images/dt-long.png
 [6]: https://halbry.github.io/personal-page/dt/
 
-Creating robotic digital twins with Isaac Sim and Unity.
+Creating robotic digital twins to control, simulate, and monitor robotic systems through a VR interface.
+
+Skills: NVIDIA Omniverse, Issac Sim, Unity, ROS/ROS2, Vicon Tracker, OptiTrack Motive
 
 ### NIU Mars Rover
 
 {% include video id="pOkapli7Qh4" provider="youtube" %}
 
 4 years of leadership service and ROS development on the Northern Illinois University Mars Rover team. 
+
+Skills: ROS/ROS2, Arduino, OpenCV
 
