@@ -3,7 +3,7 @@ permalink: /sciviz/
 title: "SciViz"
 ---
 
-In order to better communicate the science done the supercomputing resources of the [Argonne Leadership Computing Facility](https://www.alcf.anl.gov/), I helped develop a pipeline to leverage VFX software and high quality rendering tools on HPC resources. Since datasets were often hundreds of gigabytes, if not terabytes, being able to use these tools on the supercomputers was crucial. 
+In order to better communicate the science done using the supercomputing resources of the [Argonne Leadership Computing Facility](https://www.alcf.anl.gov/), I helped develop a pipeline to leverage VFX software and high quality rendering tools on HPC resources. Since datasets were often hundreds of gigabytes, if not terabytes, being able to use these tools on the supercomputers was crucial. 
 
 ## Videos
 
