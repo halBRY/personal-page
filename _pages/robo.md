@@ -1,13 +1,22 @@
 ---
 permalink: /robo/
-title: "Robotics"
+title: "Robotics Projects"
+layout: archive
 ---
 
-## Digital Twins
+### [Digital Twin](https://halbry.github.io/personal-page/dt/)<br>
+[![Digital Twin][5]][6] 
 
-Much of my current work seeks to control, simulate, and interact with robots through VR. Here, I use NVIDIA Isaac Sim and Unity to create a "digital twin" of a robot, which can then be used to simulate or control the physical hardware. 
+[5]: https://halbry.github.io/personal-page/assets/images/dt-long.png
+[6]: https://halbry.github.io/personal-page/dt/
 
-Things to include here: 
-* The Digital Twin Project
-* Rover
-* Robotics and Rover Exhibition
+Creating robotic digital twins with Isaac Sim and Unity.
+
+### [NIU Mars Rover](https://halbry.github.io/personal-page/niurov/)<br>
+[![NIU Mars Rover][7]][8] 
+
+[7]: https://halbry.github.io/personal-page/assets/images/rover-thumb-long.png
+[8]: https://halbry.github.io/personal-page/niurov/
+
+4 years of leadership service and ROS development on the NIU Mars Rover team. 
+
