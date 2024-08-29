@@ -13,7 +13,7 @@ The following videos were created using ParaView, Maya, and V-Ray, and were rend
 
 {% include video id="0DSk1wPc_cE" provider="youtube" %}
 
-This 
+Houdini
 {% include video id="Nl3m2Zz61D4" provider="youtube" %}
 
 ## Still Images
