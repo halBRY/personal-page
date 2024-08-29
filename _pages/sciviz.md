@@ -13,7 +13,7 @@ The following videos were created using ParaView, Maya, and V-Ray, and were rend
 
 {% include video id="0DSk1wPc_cE" provider="youtube" %}
 
-Houdini
+This 
 {% include video id="Nl3m2Zz61D4" provider="youtube" %}
 
 ## Still Images
@@ -24,5 +24,7 @@ Houdini
 ![Bloodflow]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/1ocio_blinn.png)
 {: .full}
 
-![Star]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/high_res_dpi_300.png)
+![Star]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/high_res_dpi300.png)
 {: .full}
+
+
