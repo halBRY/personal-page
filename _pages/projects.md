@@ -1,7 +1,6 @@
 ---
 permalink: /projects/
 title: "All Projects"
-layout: archive
 ---
 
 # Scientific Visualization
