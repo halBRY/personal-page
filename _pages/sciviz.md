@@ -10,9 +10,12 @@ In order to better communicate the science done the supercomputing resources of 
 {% include video id="M0S7ihKdCRM" provider="youtube" %}
 "Visualizing Turbulent Flow in an Internal Combustion Engine (ICE)" was the first movie we created with this method. I presented this video, along with a slide show explaining the technical details of the pipeline, at the [PEARC21](https://pearc.acm.org/pearc21/) Visualization Showcase. Texturing and modeling was done in AutoDesk Maya, and the final video was rendered in parallel with the V-Ray render engine. 
 
+
+<br>
 {% include video id="0DSk1wPc_cE" provider="youtube" %}
 "Visualizing the Supernova Explosion of a 25-Solar-Mass Star and the Simultaneous Birth of a Neutron-Star" was shown the following year at the 
 
+<br>
 {% include video id="Nl3m2Zz61D4" provider="youtube" %}
 In addition to Maya, I have also replicated this pipeline with Houdini for texturing, modeling, and scene generation. 
 
@@ -26,10 +29,12 @@ In addition to Maya, I have also replicated this pipeline with Houdini for textu
 {: .full}
 Above are volumetric renderings showing simulated bloodflow through an eye. These images were created with Maya and V-Ray. Simulation dataset provided by [Dr. Jifu Tan] of Northern Illinois University. 
 
+<br>
 ![Star]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/high_res_dpi300.png)
 {: .full}
 A still from from the Supernova Explosion visualization. 
 
+<br>
 ![TRB]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/hbrynt2_2023_2000px.webp)
 {: .full}
 ![TRB]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/renders0001.png)
