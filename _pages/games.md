@@ -15,7 +15,7 @@ Immersive visualization of nearly 400,000 stars show in real-time on the CAVE2 v
 ### [Smart Moves](https://halbry.github.io/personal-page/smm/)<br>
 [![Smart Moves][17]][18] 
 
-[17]: https://halbry.github.io/personal-page/assets/images/sm-long.jpg
+[17]: https://halbry.github.io/personal-page/assets/images/sm-long.png
 [18]: https://halbry.github.io/personal-page/smm/
 
 Smart Moves is a interactive experience for the CAVE2 focused on the UN Sustainable Development Goals. 
