@@ -10,29 +10,21 @@ layout: archive
 [9]: https://halbry.github.io/personal-page/assets/images/imss-long.png
 [10]: https://halbry.github.io/CS528-Docs/
 
-Immersive visualization of nearly 400,000 stars show in real-time on the CAVE2 virtual reality environment. 
+Immersive Stars and Skycultures is an interactive visualization of nearly 400,000 stars shown in real-time on the CAVE2 virtual reality environment. 
 
-### [Smart Moves](https://halbry.github.io/personal-page/smm/)<br>
-[![Smart Moves][17]][18] 
+### Smart Moves
+{% include video id="OO1op3ZdidI" provider="youtube" %}
 
-[17]: https://halbry.github.io/personal-page/assets/images/sm-long.png
-[18]: https://halbry.github.io/personal-page/smm/
+Smart Moves is a interactive experience for the CAVE2 focused on the UN Sustainable Development Goals. This project was awarded with an [IBM Open Developer Badge](https://www.credly.com/badges/7a8edd33-ff1f-4b0c-b5d2-93db5dc56167/public_url).
 
-Smart Moves is a interactive experience for the CAVE2 focused on the UN Sustainable Development Goals. 
-
-### [(D:) Drive](https://halbry.github.io/personal-page/ddrive/)<br> 
-[![(D:) Drive][11]][12] 
-
-[11]: https://halbry.github.io/personal-page/assets/images/ddrive-thumb-long.png
-[12]: https://halbry.github.io/personal-page/ddrive/
+### (D:) Drive
+{% include video id="6Np8UP5aRGQ" provider="youtube" %}
 
 (D:) Drive is a rhythm-racing game demo created in Unity for UIC CS428. 
 
-### [RPL Job Status Dashboard](https://halbry.github.io/personal-page/rpl/)<br> 
-[![RPL Job Status Dashboard][13]][14] 
+### RPL Job Status Dashboard
 
-[13]: https://halbry.github.io/personal-page/assets/images/rpllong.png
-[14]: https://halbry.github.io/personal-page/rpl/
+{% include video id="riNdHO379zQ" provider="youtube" %}
 
 The RPL Job Status Dashboard is a web-based visualization tool for Argonne National Laboratory's Rapid Prototyping Lab. 
 

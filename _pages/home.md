@@ -16,9 +16,9 @@ feature_row:
     alt: "customizable"
     title: "Scientific Visualization"
     excerpt: "Producing high quality scientific data visualization on supercomputers"
-    url: "/sciviz-land/"
+    url: "/sciviz/"
     btn_class: "btn--primary"
-    btn_label: "See Projects"
+    btn_label: "See Gallery"
   - image_path: /assets/images/thumbnail_robo.jpg
     alt: "fully responsive"
     title: "Robotics"
