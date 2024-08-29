@@ -27,7 +27,7 @@ In addition to Maya, I have also replicated this pipeline with Houdini for textu
 
 ![Bloodflow]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/1ocio_blinn.png)
 {: .full}
-Above are volumetric renderings showing simulated bloodflow through an eye. These images were created with Maya and V-Ray. Simulation dataset provided by [Dr. Jifu Tan] of Northern Illinois University. 
+Above are volumetric renderings showing simulated bloodflow through an eye. These images were created with Maya and V-Ray. Simulation dataset provided by [Dr. Jifu Tan](https://sites.google.com/site/tanjifu/) of Northern Illinois University. 
 
 <br>
 ![Star]({{ site.url }}{{ site.baseurl }}/assets/images/sciviz/high_res_dpi300.png)
