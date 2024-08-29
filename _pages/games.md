@@ -4,8 +4,8 @@ title: "Interactive Projects"
 layout: archive
 ---
 
-### [Immersive Stars and Skycultures](https://halbry.github.io/CS528-Docs/)<br>
-[![Immersive Stars and Skycultures][9]][10] 
+### [Immersive Stars and Skycultures](https://halbry.github.io/CS528-Docs/){:target="_blank"}<br>
+[![Immersive Stars and Skycultures][9]][10]{:target="_blank"}
 
 [9]: https://halbry.github.io/personal-page/assets/images/imss-long.png
 [10]: https://halbry.github.io/CS528-Docs/
@@ -36,8 +36,8 @@ The RPL Job Status Dashboard is a web-based visualization tool for Argonne Natio
 
 Skills: JavaScript, React, D3.js
 
-### [WebGL Amusement Park](https://halbry.github.io/webgl-park/ParkA4/index.html)<br>
-[![WebGL Amusement Park][15]][16] 
+### [WebGL Amusement Park](https://halbry.github.io/webgl-park/ParkA4/index.html){:target="_blank"}<br>
+[![WebGL Amusement Park][15]][16]{:target="_blank"}
 
 [15]: https://halbry.github.io/personal-page/assets/images/webgl-long.png
 [16]: https://halbry.github.io/webgl-park/ParkA4/index.html
